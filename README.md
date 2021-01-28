@@ -6,7 +6,7 @@ SV2TTS is a three-stage deep learning framework that allows to create a numerica
 
 **Video demonstration** (click the picture):
 
-[![Modiefied Toolbox demo](https://i.ytimg.com/vi/rBttZhhYXBA/hqdefault.jpg)](https://www.youtube.com/watch?v=rBttZhhYXBA)
+[![Voice Clone Flask Web App](https://i.ytimg.com/vi/j1_A18b7AUE/hqdefault.jpg)](https://www.youtube.com/watch?v=j1_A18b7AUE)
 
 
 
