@@ -19,7 +19,7 @@ SV2TTS is a three-stage deep learning framework that allows to create a numerica
 |[1710.10467](https://arxiv.org/pdf/1710.10467.pdf) | GE2E (encoder)| Generalized End-To-End Loss for Speaker Verification | This repo |
 
 ## News
-**11/01/21**: Result save support added.
+**11/01/21**: Result save support added. [(See This Repo)](https://github.com/Sba-Stuff/Real-Time-Voice-Cloning-With-Save-Support)
 
 
 **13/11/19**: I'm now working full time and I will not maintain this repo anymore. To anyone who reads this:
