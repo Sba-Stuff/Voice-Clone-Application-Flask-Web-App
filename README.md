@@ -87,3 +87,6 @@ Generated Output is saved in static folder named "output.wav". This file is over
 ### 8. Enjoy. Note
 Do Not Abuse this code. I modified this code for educational purposes, polishing my skills over python and presenting information in unique ways.
 Note: Never click upload button without browse audio selection and text. It will give unexpected outputs.
+
+You can see the debug information in console where server is running for letting know what is happening at background as shown below;
+[![Debug Information](https://github.com/Sba-Stuff/Voice-Clone-Application-Flask-Web-App/blob/main/images/Debug%20Info.jpg)](https://github.com/Sba-Stuff/Voice-Clone-Application-Flask-Web-App/blob/main/images/Debug%20Info.jpg)
