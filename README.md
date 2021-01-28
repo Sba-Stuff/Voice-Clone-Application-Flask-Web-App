@@ -68,9 +68,9 @@ Click on Upload Button.
 
 ### 7. Listen The Difference.
 Listen The Difference Between Two Audios Enjoy It.
-Generated Output is saved in static folder named "output.wav". This file is overwrited with every new experiment. You can add some random numbers or date time to make it unique in file "server.py" at line 113 `fpath = "static/output.wav"`. (Example: `fpath = "static/output"+somerandomstuff+".wav"`
+Generated Output is saved in static folder named "output.wav". This file is overwrited with every new experiment. You can add some random numbers or date time to make it unique in file "server.py" at line 113 `fpath = "static/output.wav"`. (Example: `fpath = "static/output"+somerandomstuff+".wav"`)
 
 
 ### 8. Enjoy. Note
 Do Not Abuse this code. I modified this code for educational purposes, polishing my skills over python and presenting information in unique ways.
-Note: Never click upload button without browse audio selection and text. I give unexpected outputs.
+Note: Never click upload button without browse audio selection and text. It will give unexpected outputs.
