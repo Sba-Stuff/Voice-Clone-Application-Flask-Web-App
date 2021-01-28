@@ -62,21 +62,21 @@ Copy the given url and paste in browser. I recommend you to please use incognito
 
 [![Browser Window Preview](https://github.com/Sba-Stuff/Voice-Clone-Application-Flask-Web-App/blob/main/images/Open%20In%20Browser.jpg)](https://github.com/Sba-Stuff/Voice-Clone-Application-Flask-Web-App/blob/main/images/Open%20In%20Browser.jpg)
 
-### 4. Browse Audio
+### 5. Browse Audio
 Browse the audio mp3 or wav file, for which you want to create an utterance.
 Note: Audios will be overwrited if they have same names.
 Note: Audios will uploaded in static folder.
 
-### 5. Type Text
+### 6. Type Text
 Type the text for which you want to create audio..
 
 
-### 6. Click Upload
+### 7. Click Upload
 Click on Upload Button. Example Uploads are shown below
 [![Example Upload](https://github.com/Sba-Stuff/Voice-Clone-Application-Flask-Web-App/blob/main/images/Example%20of%20Upload.jpg)](https://github.com/Sba-Stuff/Voice-Clone-Application-Flask-Web-App/blob/main/images/Example%20of%20Upload.jpg)
 
 
-### 7. Listen The Difference.
+### 8. Listen The Difference.
 Listen The Difference Between Two Audios Enjoy It.
 Generated Output is saved in static folder named "output.wav". This file is overwrited with every new experiment. You can add some random numbers or date time to make it unique in file "server.py" at line 113 `fpath = "static/output.wav"`. (Example: `fpath = "static/output"+somerandomstuff+".wav"`). Output preview is shown below.
 
@@ -84,7 +84,7 @@ Generated Output is saved in static folder named "output.wav". This file is over
 
 
 
-### 8. Enjoy. Note
+### 9. Enjoy. Note
 Do Not Abuse this code. I modified this code for educational purposes, polishing my skills over python and presenting information in unique ways.
 Note: Never click upload button without browse audio selection and text. It will give unexpected outputs.
 
