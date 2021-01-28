@@ -53,6 +53,10 @@ Run the server by following given command.
 
 `python server.py`
 
+You will see a window as shown below. Some text. Copy the given url and paste in browser. I recommend you to please use incognito / guest versions of browsers as browsers saves caches and you may hear old audios after uploading and while listening cloned voices.
+
+[![Run The Server](https://github.com/Sba-Stuff/Voice-Clone-Application-Flask-Web-App/blob/main/images/Run%20Server.jpg)](https://github.com/Sba-Stuff/Voice-Clone-Application-Flask-Web-App/blob/main/images/Run%20Server.jpg)
+
 ### 4. Browse Audio
 Browse the audio mp3 or wav file, for which you want to create an utterance.
 Note: Audios will be overwrited if they have same names.
