@@ -53,9 +53,14 @@ Run the server by following given command.
 
 `python server.py`
 
-You will see a window as shown below. Some text. Copy the given url and paste in browser. I recommend you to please use incognito / guest versions of browsers as browsers saves caches and you may hear old audios after uploading and while listening cloned voices.
+You will see a window as shown below. Some text. 
 
 [![Run The Server](https://github.com/Sba-Stuff/Voice-Clone-Application-Flask-Web-App/blob/main/images/Run%20Server.jpg)](https://github.com/Sba-Stuff/Voice-Clone-Application-Flask-Web-App/blob/main/images/Run%20Server.jpg)
+
+### 4. Run in Browser
+Copy the given url and paste in browser. I recommend you to please use incognito / guest versions of browsers as browsers saves caches and you may hear old audios after uploading and while listening cloned voices. (Work is needed to be done on not saving caches in server.py code).
+
+[![Browser Window Preview](https://github.com/Sba-Stuff/Voice-Clone-Application-Flask-Web-App/blob/main/images/Open%20In%20Browser.jpg)](https://github.com/Sba-Stuff/Voice-Clone-Application-Flask-Web-App/blob/main/images/Open%20In%20Browser.jpg)
 
 ### 4. Browse Audio
 Browse the audio mp3 or wav file, for which you want to create an utterance.
@@ -67,12 +72,16 @@ Type the text for which you want to create audio..
 
 
 ### 6. Click Upload
-Click on Upload Button.
+Click on Upload Button. Example Uploads are shown below
+[![Example Upload](https://github.com/Sba-Stuff/Voice-Clone-Application-Flask-Web-App/blob/main/images/Example%20of%20Upload.jpg)](https://github.com/Sba-Stuff/Voice-Clone-Application-Flask-Web-App/blob/main/images/Example%20of%20Upload.jpg)
 
 
 ### 7. Listen The Difference.
 Listen The Difference Between Two Audios Enjoy It.
-Generated Output is saved in static folder named "output.wav". This file is overwrited with every new experiment. You can add some random numbers or date time to make it unique in file "server.py" at line 113 `fpath = "static/output.wav"`. (Example: `fpath = "static/output"+somerandomstuff+".wav"`)
+Generated Output is saved in static folder named "output.wav". This file is overwrited with every new experiment. You can add some random numbers or date time to make it unique in file "server.py" at line 113 `fpath = "static/output.wav"`. (Example: `fpath = "static/output"+somerandomstuff+".wav"`). Output preview is shown below.
+
+[![Output Preview](https://github.com/Sba-Stuff/Voice-Clone-Application-Flask-Web-App/blob/main/images/Outputs.jpg)](https://github.com/Sba-Stuff/Voice-Clone-Application-Flask-Web-App/blob/main/images/Outputs.jpg)
+
 
 
 ### 8. Enjoy. Note
